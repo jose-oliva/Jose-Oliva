@@ -5,7 +5,6 @@ I'm a Full Stack developer.
 ---------------------------
 
 * 🌍  I'm based in México
-* 🖥️  See my portfolio at [My Website](http://joseoliva.vercel.app)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
